@@ -16,12 +16,16 @@
 
 ## 🧩 System Architecture
 
+<details>
+<summary>Click to expand Mermaid Graph (compatible)</summary>
+
 ```mermaid
 graph TD
-    A[IMU Sensor (BMI160)] --> B[ESP32-S3 (Edge ML)]
-    C[Microphone (INMP441)] --> B
-    B -->|Wi-Fi Alert| D[Emergency Services / Dashboard]
+    A["IMU Sensor (BMI160)"] --> B["ESP32-S3 (Edge ML)"]
+    C["Microphone (INMP441)"] --> B
+    B --> D["Emergency Services / Dashboard"]
 ```
+</details>
 
 ---
 

@@ -3,14 +3,14 @@
 
 ## 🧠 **Project Overview**
 
-**Guardian Angel** is a comprehensive health monitoring and emergency response system designed to showcase expertise across multiple embedded systems disciplines, including:
+**Guardian Angel** is a comprehensive health monitoring and emergency response system designed to be used by the wearer to alert emergency contacts in case of emergency. The project includes:
 
 - **Medical Devices**
 - **AI/ML**
 - **Robotics**
 - **IoT Communication**
 
-This project emphasizes:
+This project emphasises:
 - Multi-MCU coordination  
 - Real-time processing  
 - Robust wireless communication
@@ -65,7 +65,7 @@ graph TD
   - SpO₂ via red/IR signal processing
   - Filtering & noise reduction
 - **Data Fusion & Packaging**
-  - Timestamping, aggregation, serialization
+  - Timestamping, aggregation, serialisation
 - **Optional On-device AI**
   - Fall detection (accel/gyro)
   - Wake word detection using NPU
@@ -156,7 +156,7 @@ graph TD
 - [ ] Emergency notification system  
 - [ ] Dashboard  
 - [ ] Integration test  
-- [ ] Optimization  
+- [ ] Optimisation  
 
 ## 🛠️ **Implementation Strategy**
 
@@ -219,7 +219,7 @@ graph TD
 
 ## 🧠 **Technical Demonstrations**
 
-- Multi-MCU synchronization  
+- Multi-MCU synchronisation  
 - Real-time embedded DSP  
 - ML on STM32/ESP32  
 - IoT + camera integration  
@@ -231,10 +231,10 @@ graph TD
 - RTOS, MCU coordination, power management, protocols  
 
 ### For **AI/ML Roles**
-- TensorFlow Lite, anomaly detection, optimization  
+- TensorFlow Lite, anomaly detection, optimisation  
 
 ### For **Medical Tech**
-- Safety protocols, real-time responsiveness, user-friendly  
+- Safety protocols, real-time responsiveness, and user-friendly  
 
 ## 🚀 **Next Steps (Days 1–2)**
 

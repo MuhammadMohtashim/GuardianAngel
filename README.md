@@ -8,9 +8,9 @@
 * 🗣️ **Speech Recognition** for emergency keywords ("help", "I need help") *(not yet implemented)*
 * ❤️ **Vital Signs Monitoring** using MAX30102 (heart rate, SpO2)
 * 🌡️ **Environmental Monitoring** using AHT10 (temperature, humidity)
-* ⏱️ **Fail-Safe Timer**: Multi-condition emergency detection with 30s response window
+* ⏱️ **Fail-Safe Timer**: Multi-condition emergency detection with 30s response window *(not yet implemented)*
 * 📡 **Smart Emergency Alert** via Wi-Fi with contextual health data
-* 🧠 **AI-Powered Health Analytics** for pattern recognition and anomaly detection
+* 🧠 **AI-Powered Health Analytics** for pattern recognition and anomaly detection *(not yet implemented)*
 
 ## 🧩 Enhanced System Architecture
 

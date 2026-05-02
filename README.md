@@ -14,18 +14,20 @@
 
 ## 🧩 Enhanced System Architecture
 
+## 🧩 Enhanced System Architecture
+
 ```mermaid
 graph TB
     subgraph "Sensor Layer"
         A[BMI160 IMU] --> D[Sensor Fusion]
-        B[INMP441 Microphone (not yet implemented)] --> D
+        B[INMP441 Microphone] --> D
         C[MAX30102 Heart Rate/SpO2] --> D
         E[AHT10 Temp/Humidity] --> D
     end
     
     subgraph "AI/ML Processing"
         D --> F[Fall Detection ML]
-        D --> G[Speech Recognition (not yet implemented)]
+        D --> G[Speech Recognition]
         D --> H[Vital Signs Analysis]
         D --> I[Environmental Context]
     end
@@ -51,6 +53,7 @@ graph TB
         P --> J
     end
 ```
+
 
 ## 🔌 Hardware Wiring Diagram
 
